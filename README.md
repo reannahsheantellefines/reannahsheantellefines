@@ -8,16 +8,12 @@
 <nav>
 <table cellspacing="5" cellpadding="2">
 <tr> 
-<td>Home</td>
-<td>Contact Information</td>
-<td>High School Background</td>
-<td>Future Goals</td>
-<td>Career Objective</td>
-<td>Special Projects</td>
+<td><a href=index.html">Home</a></td>
+<td><a href=Contactinformation">Contact Information</a></td>
+<td><a href="Backrgound.html">Background</a></td>
+<td><a href="Futuregoals.hmtl">Future Goals</a></td>
+<td><a href="Careerobjective.html">Career Objective</a></td>
+<td><a href="Specialprojects.html">Special Projects</a></td>
 </tr> 
 </nav> 
 </body> 
-
-
-
-<table cellspacing="5" cellpadding="2"
