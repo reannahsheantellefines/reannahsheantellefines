@@ -1,12 +1,12 @@
 <!DOCTYPE html> 
-<head><title> Reannah's Electronic Portfolio</title></head> 
+<head>Reannah's Electronic Portfolio</head> 
 <body> 
 <header>
 
 </header>
 <hr> 
 <nav>
-<table border="1"> 
+<table cellspacing="5" cellpadding="2">
 <tr> 
 <td>Home</td>
 <td>Contact Information</td>
@@ -17,3 +17,7 @@
 </tr> 
 </nav> 
 </body> 
+
+
+
+<table cellspacing="5" cellpadding="2"
