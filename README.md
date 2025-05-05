@@ -6,7 +6,7 @@
 </header>
 <hr> 
 <nav>
-<table cellspacing="5" cellpadding="2">
+<table cellspacing="5" cellpadding="5">
 <tr> 
 <td>Home</td>
 <td>Contact Information</td>
@@ -20,4 +20,4 @@
 
 
 
-<table cellspacing="5" cellpadding="2"
+
